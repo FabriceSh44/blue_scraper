@@ -1,0 +1,94 @@
+{
+  "vegetables": [
+    "avocado",
+    "bay leaves",
+    "broccoli",
+    "cabbage",
+    "carrots",
+    "cauliflower",
+    "celery",
+    "cilantro",
+    "collard greens",
+    "cucumber",
+    "garlic",
+    "kale",
+    "lemon",
+    "lime",
+    "onion",
+    "pepper",
+    "potatoes",
+    "pumpkin",
+    "radishes",
+    "scallions",
+    "spinach",
+    "tomato",
+    "zucchini"
+  ],
+  "fruits": [
+    "apple",
+    "banana",
+    "pear"
+  ],
+  "fish": [
+    "salmon",
+    "shrimp"
+  ],
+  "dairy": [
+    "butter",
+    "cheese",
+    "creme fraiche",
+    "eggs",
+    "queso blanco",
+    "sour cream",
+    "yogurt"
+  ],
+  "grains": [
+    "couscous",
+    "farro",
+    "pasta",
+    "pecans",
+    "quinoa",
+    "raisins",
+    "rice"
+  ],
+  "condiments": [
+    "chicken stock",
+    "chipotle chile paste",
+    "cornstarch",
+    "dried currants",
+    "dried oregano",
+    "harissa paste",
+    "hoisin",
+    "mayonnaise",
+    "mint",
+    "olives",
+    "sambal oelek",
+    "spice",
+    "tahini",
+    "thyme",
+    "tomato paste"
+  ],
+  "oil&vinegar": [
+    "demi-glace",
+    "oil",
+    "soy glaze",
+    "vinegar",
+    "wine"
+  ],
+  "bread/bakery": [
+    "baguette",
+    "bread",
+    "tortillas"
+  ],
+  "meat": [
+    "beef",
+    "chicken",
+    "lamb",
+    "pork"
+  ],
+  "beverage": [
+    "juice",
+    "milk",
+    "water"
+  ]
+}

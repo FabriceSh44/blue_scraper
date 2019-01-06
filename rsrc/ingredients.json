@@ -1,0 +1,107 @@
+{
+  "vegetables": [
+    "avocado",
+    "bay leaves",
+    "bean",
+    "bok choy",
+    "broccoli",
+    "cabbage",
+    "carrots",
+    "cauliflower",
+    "celery",
+    "cilantro",
+    "collard greens",
+    "cucumber",
+    "garlic",
+    "kale",
+    "lemon",
+    "lime",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potatoes",
+    "pumpkin",
+    "radishes",
+    "scallions",
+    "spinach",
+    "tomato",
+    "zucchini"
+  ],
+  "fruits": [
+    "apple",
+    "banana",
+    "pear"
+  ],
+  "fish": [
+    "salmon",
+    "shrimp"
+  ],
+  "dairy": [
+    "butter",
+    "cheese",
+    "creme fraiche",
+    "cr\u00e8me fra\u00eeche",
+    "eggs",
+    "queso",
+    "sour cream",
+    "yogurt"
+  ],
+  "grains": [
+    "couscous",
+    "farro",
+    "flour",
+    "noodles",
+    "pasta",
+    "pecans",
+    "quinoa",
+    "raisins",
+    "rice"
+  ],
+  "condiments": [
+    "aromatics",
+    "bean sauce",
+    "chicken stock",
+    "chipotle chile paste",
+    "cornstarch",
+    "dried currants",
+    "dried oregano",
+    "harissa paste",
+    "hoisin",
+    "honey",
+    "mayonnaise",
+    "mint",
+    "miso paste",
+    "olives",
+    "sambal oelek",
+    "seasoning",
+    "sesame seeds",
+    "spice",
+    "tahini",
+    "thyme",
+    "tomato paste"
+  ],
+  "oil&vinegar": [
+    "demi-glace",
+    "oil",
+    "soy glaze",
+    "vinegar",
+    "wine"
+  ],
+  "bread/bakery": [
+    "baguette",
+    "bread",
+    "tortillas"
+  ],
+  "meat": [
+    "beef",
+    "chicken",
+    "lamb",
+    "pork"
+  ],
+  "beverage": [
+    "juice",
+    "milk",
+    "verjus blanc",
+    "water"
+  ]
+}
