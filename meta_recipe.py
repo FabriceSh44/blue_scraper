@@ -16,7 +16,7 @@ class MetaRecipe:
             quantity = f'{self.coeff* quantity_float:g}{units}'
         category = self.get_or_create_category(name)
         if name in self.ingredient_dico:
-            self.ingredient_dico[name] = (category, add_quantity(self.ingredient_dico[name], quantity, name))
+            self.ingredient_dico[name] = (category, add_quantity(self.ingredient_dico[name][1], quantity, name))
         else:
             self.ingredient_dico[name] = (category, quantity)
 

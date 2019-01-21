@@ -6,9 +6,11 @@
     "bok choy",
     "broccoli",
     "cabbage",
+    "capers",
     "carrots",
     "cauliflower",
     "celery",
+    "chickpea",
     "cilantro",
     "collard greens",
     "cucumber",
@@ -23,6 +25,7 @@
     "pumpkin",
     "radishes",
     "scallions",
+    "shallot",
     "spinach",
     "tomato",
     "zucchini"
@@ -33,6 +36,7 @@
     "pear"
   ],
   "fish": [
+    "cod",
     "salmon",
     "shrimp"
   ],
@@ -47,7 +51,9 @@
     "yogurt"
   ],
   "grains": [
+    "almonds",
     "couscous",
+    "dates",
     "farro",
     "flour",
     "noodles",
@@ -72,12 +78,14 @@
     "mint",
     "miso paste",
     "olives",
+    "sage",
     "sambal oelek",
     "seasoning",
     "sesame seeds",
     "spice",
     "tahini",
     "thyme",
+    "tomatillo-poblano sauce",
     "tomato paste"
   ],
   "oil&vinegar": [
@@ -90,6 +98,7 @@
   "bread/bakery": [
     "baguette",
     "bread",
+    "pita",
     "tortillas"
   ],
   "meat": [
