@@ -1,6 +1,7 @@
 {
   "vegetables": [
     "avocado",
+    "bay leaf",
     "bay leaves",
     "bean",
     "bok choy",
@@ -20,6 +21,7 @@
     "lime",
     "mushroom",
     "onion",
+    "parsley",
     "pepper",
     "potatoes",
     "pumpkin",
@@ -33,6 +35,7 @@
   "fruits": [
     "apple",
     "banana",
+    "orange",
     "pear"
   ],
   "fish": [
@@ -46,6 +49,7 @@
     "creme fraiche",
     "cr\u00e8me fra\u00eeche",
     "eggs",
+    "fromage blanc",
     "queso",
     "sour cream",
     "yogurt"
@@ -61,7 +65,8 @@
     "pecans",
     "quinoa",
     "raisins",
-    "rice"
+    "rice",
+    "roasted peanuts"
   ],
   "condiments": [
     "aromatics",
@@ -69,6 +74,7 @@
     "chicken stock",
     "chipotle chile paste",
     "cornstarch",
+    "curry paste",
     "dried currants",
     "dried oregano",
     "harissa paste",
@@ -76,17 +82,21 @@
     "honey",
     "mayonnaise",
     "mint",
+    "mirin",
     "miso paste",
+    "mustard",
     "olives",
     "sage",
     "sambal oelek",
     "seasoning",
     "sesame seeds",
+    "soy sauce",
     "spice",
     "tahini",
     "thyme",
     "tomatillo-poblano sauce",
-    "tomato paste"
+    "tomato paste",
+    "worcestershire"
   ],
   "oil&vinegar": [
     "demi-glace",
