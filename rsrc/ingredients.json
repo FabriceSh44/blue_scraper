@@ -63,6 +63,7 @@
     "noodles",
     "pasta",
     "pecans",
+    "polenta",
     "quinoa",
     "raisins",
     "rice",
@@ -72,6 +73,7 @@
     "aromatics",
     "bean sauce",
     "chicken stock",
+    "chile paste",
     "chipotle chile paste",
     "cornstarch",
     "curry paste",
@@ -80,6 +82,7 @@
     "harissa paste",
     "hoisin",
     "honey",
+    "hot sauce",
     "mayonnaise",
     "mint",
     "mirin",
@@ -109,6 +112,7 @@
     "baguette",
     "bread",
     "pita",
+    "potato bun",
     "tortillas"
   ],
   "meat": [
